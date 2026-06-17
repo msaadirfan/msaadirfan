@@ -7,7 +7,7 @@ If an idea pops into my head, chances are I'll build it and ship it here.
 
 I primarily work with Django for backend development and React for building interactive frontends.
 
-I've got a bunch of pinned projects, but my favourite is [Manzil](https://github.com/msaadirfan/manzil).
+I've got a bunch of pinned projects, but my favourite is [BuySense](https://github.com/msaadirfan/buysense).
 
 
 
